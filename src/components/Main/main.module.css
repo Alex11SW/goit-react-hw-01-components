@@ -1,0 +1,10 @@
+.main {
+  display: block;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: cyan;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  width: 1000px;
+}
